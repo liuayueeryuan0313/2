@@ -15,7 +15,7 @@
 
 ## 用法
 
-1. 下载 [DormElectricity.js](https://raw.githubusercontent.com/liuayueeryuan0313/2/main/DormElectricity.js)，导入 Scriptable。
+1. 下载 [DormElectricity.js](https://raw.githubusercontent.com/liuayueeryuan0313/sdut-dorm-scriptable-widget/main/DormElectricity.js)，导入 Scriptable。
 2. 部署支持专用接口的 [sdut-dorm-monitor](https://github.com/liuayueeryuan0313/sdut-dorm-monitor)，在「连接与计划 → 小组件接口」生成 Token。
 3. 运行脚本 →「配置接口与 Token」，填服务地址和完整 `dw_` Token。可填 `http://IP:端口` 或完整 `/api/widget/v1/dorm` 地址；手机需能访问服务。
 4. 选「设置圆环最大电量」填大于 0 的度数，再向桌面添加 Scriptable 中号组件并选择此脚本。
